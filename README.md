@@ -28,4 +28,6 @@ Advancing through Code
 
 <a href="http://www.github.com/AyUsHi134"><img src="https://github-readme-stats.vercel.app/api?username=AyUsHi134&show_icons=true&hide=&title_color=a855f7&text_color=facc15&icon_color=a855f7&bg_color=000000&hide_border=true&show_icons=true" alt="AyUsHi134's GitHub stats" /></a>
 
-<a href="http://www.github.com/AyUsHi134"><img src="https://github-readme-streak-stats.herokuapp.com/?user=AyUsHi134&stroke=facc15&background=000000&ring=a855f7&fire=a855f7&currStreakNum=facc15&currStreakLabel=a855f7&sideNums=facc15&sideLabels=facc15&dates=facc15&hide_border=true" /></a>
+<a href="https://github.com/AyUsHi134">
+  <img src="https://streak-stats.demolab.com?user=AyUsHi134&theme=github-dark&hide_border=true" />
+</a>
